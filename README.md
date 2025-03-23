@@ -31,7 +31,7 @@ A fun and interactive Flappy Bird clone built with HTML, CSS, and JavaScript. Th
 🖥️ **Installation & Setup**
 1. **Clone this repository:**  
    ```sh
-   git clone https://github.com/YOUR-USERNAME/Flappy-Bird-Game.git
+   git clone https://github.com/rohits78/Flappy-Bird-Game.git
    ```
 2. **Navigate to the project folder:**  
    ```sh
@@ -45,7 +45,7 @@ A fun and interactive Flappy Bird clone built with HTML, CSS, and JavaScript. Th
 2. Under **Branch**, select `main` and click **Save**.
 3. Your game will be live at:  
    ```
-   https://your-username.github.io/Flappy-Bird-Game/
+   https://rohits78.github.io/Flappy-Bird-Game/
    ```
 
 📌 **Future Improvements**
@@ -59,5 +59,5 @@ Want to improve this game? Fork the repo, make your changes, and submit a pull r
 📜 **License**
 This project is open-source and available under the **MIT License**.
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Rohit Kumar]
 
