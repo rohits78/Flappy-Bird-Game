@@ -13,7 +13,7 @@ A fun and interactive Flappy Bird clone built with HTML, CSS, and JavaScript. Th
 ✅ Responsive & Stylish UI ✨  
 
 📷 **Screenshot**
-Flappy Bird Game Preview
+![Image](https://github.com/user-attachments/assets/7b326769-196b-4f6d-8003-4a401a276a86)
 
 🛠️ **Technologies Used**
 - **HTML** for structure  
